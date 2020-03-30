@@ -6,7 +6,7 @@
 
 *For a selection of 5 inventor kit experiments that you choose, fill out the following sections.
 
-### Experiment name ###
+### Experiment 1 ###
 
 (Replace this with the experiment name)
 
