@@ -23,24 +23,24 @@ This was my fisrt ever experience with coding and using mirobit. It was fun to g
 
 This experiment could be the basis of a real world application such as electronic signs and advertisments. Things such as road signs, outside of buisnesses.
 
-### Experiment name ###
+### Experiment 2 ###
 
 (Replace this with the experiment name)
 
 #### Photo of completed project ####
 In the code below, replace imagemissing.jpg with the name of the image, which should be in the kitexperiments folder.
 
-![Image](missingimage.png)
+![Image](2.png)
 
 (Insert a caption here)
 
 #### Reflection ####
 
-In this experiment, something new to me was or something I learned was (insert something here).
+In this experiment, I learnt how to use a light sensor and analog inputs. I liked this expeiment because it allowed me to play around with the sensitivity of the phototransistor.
 
-This experiment could be the basis of a real world application such as (insert something here).
+This experiment could be the basis of a real world application such as energy saving applianes. An appliance with a light sesor such as this could be used to save power by turning lights off during the day and on at night. 
 
-### Experiment name ###
+### Experiment 5 ###
 
 (Replace this with the experiment name)
 
