@@ -13,15 +13,15 @@
 #### Photo of completed project ####
 *In the code below, replace `missingimage.png` with the name of the image, which should be in the `kitexperiments` folder.*
 
-![Image](6.HEIC)
+![Image](1.png)
 
 (Insert a caption here)
 
 #### Reflection ####
 
-This was my fisrt ever experience with coding and using a mirobit. It was fun to get a first insight into how coding works with this simple exercise.
+This was my fisrt ever experience with coding and using mirobit. It was fun to get a first insight into how coding works with this simple exercise. 
 
-This experiment could be the basis of a real world application such as (insert something here).
+This experiment could be the basis of a real world application such as electronic signs and advertisments. Things such as road signs, outside of buisnesses.
 
 ### Experiment name ###
 
