@@ -47,7 +47,7 @@ This experiment could be the basis of a real world application such as energy sa
 #### Photo of completed project ####
 In the code below, replace imagemissing.jpg with the name of the image, which should be in the kitexperiments folder.
 
-![Image](missingimage.png)
+![Image](5.JPG)
 
 (Insert a caption here)
 
@@ -64,15 +64,15 @@ This experiment could be the basis of a real world application such as video gam
 #### Photo of completed project ####
 In the code below, replace imagemissing.jpg with the name of the image, which should be in the kitexperiments folder.
 
-![Image](missingimage.png)
+![Image](6.png)
 
 (Insert a caption here)
 
 #### Reflection ####
 
-In this experiment, something new to me was or something I learned was (insert something here).
+In this experiment, I learnt set the tone on a piezo buzzer. This is useful for sending messages and creating music.
 
-This experiment could be the basis of a real world application such as (insert something here).
+
 
 ### Expriment 7 ###
 
@@ -81,7 +81,7 @@ This experiment could be the basis of a real world application such as (insert s
 #### Photo of completed project ####
 In the code below, replace imagemissing.jpg with the name of the image, which should be in the kitexperiments folder.
 
-![Image](missingimage.png)
+![Image](7.png)
 
 (Insert a caption here)
 
