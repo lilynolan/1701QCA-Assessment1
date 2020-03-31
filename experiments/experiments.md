@@ -53,11 +53,11 @@ In the code below, replace imagemissing.jpg with the name of the image, which sh
 
 #### Reflection ####
 
-In this experiment, something new to me was or something I learned was (insert something here).
+In this experiment, I learnt how to use an accelerometer to control motor speed.
 
-This experiment could be the basis of a real world application such as (insert something here).
+This experiment could be the basis of a real world application such as video games with remotes that detect movement. It could also be used to control machinery (such as an excavator).
 
-### Experiment name ###
+### Experiment 6 ###
 
 (Replace this with the experiment name)
 
@@ -87,5 +87,5 @@ In the code below, replace imagemissing.jpg with the name of the image, which sh
 
 #### Reflection ####
 
-This experiment was interesting because I used Javascrispt instead of the blocks to write the code. I found Javascript more challenging than the blocks but I can see that with experience you would be able to write code much faster with Java than with the blocks.
+This experiment was interesting because I used Javascrispt instead of the blocks to write the code. I found Javascript more challenging than the blocks but I can see that with experience you would be able to write code much faster with Javascript than with the blocks.
 
