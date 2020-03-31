@@ -92,12 +92,13 @@ This project is related to mine because (insert reasons here).
 
 *Provide some other image that gives a viewer a different perspective on the project such as more about how it functions, the project in use, or something else.*
 
+![Image](project.png)
 ![Video](project.mov)
 
 ### Reflection ###
 
 *Describe the parts of your project you felt were most successful and the parts that could have done with improvement, whether in terms of outcome, process, or understanding.*
-
+I felt that my project was successful in replicating the task and in putting a bit more creativity to the banana keyboard. I feel that the presentation could have been improved. The wires were messy and the joins were flimsy. If I was to create this again I would wrap wires around each connection so that they are more secure and tape them down so that there aren't any loose wires. 
 
 *What techniques, approaches, skills, or information did you find useful from other sources (such as the related projects you identified earlier)?*
 
@@ -106,3 +107,4 @@ This project is related to mine because (insert reasons here).
 
 
 *What might be an interesting extension of this project? In what other contexts might this project be used?*
+Another context that this project could be used for is education. This project demonstrates the flow of electricity through various objects and materials. I think that this experiment could be used as a teaching tool for how circuts work, conductivity and codeing.
