@@ -54,9 +54,9 @@ This project is related to mine because (insert reasons here).
 
 ### Reading: Chapter 1 of Dan Saffer, Microinteractions: Designing with Details, Chapter 1 ###
 
-*What I thought before: Describe something that you thought or believed before you read the source that was challenged by the reading.*
+*What I thought before: That microinteractions were things that you barely noticed
 
-*What I learned: Describe what you now know or believe as a result of the reading. Don't just describe the reading: write about what changed in YOUR knowledge.*
+*What I learned: Microinteractions can make up every part of an electronic device or app. Whether there is only one interaction or a thousand each one on be the reason
 
 *What I would like to know more about: Describe or write a question about something that you would be interested in knowing more about.*
 
