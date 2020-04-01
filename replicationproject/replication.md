@@ -91,10 +91,13 @@ My project's microinteraction is to make a noise through completeing a circuit. 
 *There will likely by a dozen or so images of the project under construction. The images should help explain why you've made the choices you've made as well as what you have done. Use the code below to include images, and copy it for each image, updating the information for each.*
 
 ![Image](bananakeyboard.png)
-Here is the first code that I started with from the source that was provided. I knew that I wanted to change it so that it could do more than play the same sound each time. I also knew I didn't want to use a banana because that would get nasty.
+Here is the first code that I started with from the source that was provided. I knew that I wanted to change it so that it could do more than play the same sound each time. I also knew I didn't want to use a banana because that would get nasty fast.
 
 ![Image](circuit.png)
 Here I am checking to make sure that my circuit works 
+![Image](bit.png)
+![Image](aux.png)
+Some close ups of how I connected the microbit chip and aux chord
 
 ![Image](batteries.png)
  Here I was panicking because it wasnt working but turns out it was just the batteries
@@ -110,24 +113,17 @@ This was my favorite part of my project because I feel that it makes the interac
 
 ## Project outcome ##
 
-*Complete the following information.*
-
 ### Lemon Keyboard ###
 
 ### Project description ###
 
-*In a few sentences, describe what the project is and does, who it is for, and a typical use case.*
 By holding 1P in one hand and the fruit, which is connected to Ground in the other, the user acts as a button and close the electrical circuit. Electricity travels from the battery pack, through the microbit, the cables, the fruit and through the user. The result is that there is an electrical connection between 1P and Ground. This tells the microbit to play a sound. To make my project more interesting I made the sound arpeggiate higher each time you touch the lemon.  After the noise is made, the microbit  is programmed to play a higher noise for every sound played until it reaches 1100Hz. Then the microbit reverts back to 220Hz. My project is mainly aimed at children (even though my parents liked playing with it) and could be used as an educational toy that displays how electricity can flow through certian medium.
 
 ### Showcase image ###
 
-*Try to capture the image as if it were in a portfolio, sales material, or project proposal. The project isn't likely to be something that finished, but practice making images that capture the project in that style.*
-
 ![Image](complete.png)
 
 ### Additional view ###
-
-*Provide some other image that gives a viewer a different perspective on the project such as more about how it functions, the project in use, or something else.*
 
 ![Image](final.png)
 ![Video](project.mov)
