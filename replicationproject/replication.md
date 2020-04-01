@@ -13,7 +13,7 @@ Tickle Me Elmo
 
 https://www.youtube.com/watch?v=IP8DHiYJzak
 
-![Image](missingimage.png)
+![Image](elmo.png)
 
 This project is related to mine because it invloves button pushing with simple reactions from the toy. Tickle Me Elmo has a few different sounds and movements programmed for when buttons on the toy are pressed. Similar to mine the lemon is a button that makes a noise when preed and has a few different set noises.
 
@@ -23,7 +23,7 @@ Pixel Pyros
 
 https://vimeo.com/77432808
 
-![Image](missingimage.png)
+![Image](pixel.png)
 
 This project is related to mine because it invloves an interactive touch. The auience can interact with the projected image without any instruction. Any kind of touch on the wall will produce a reaction in the projection.
 
@@ -33,7 +33,7 @@ Reactable
 
 https://www.youtube.com/watch?v=jtjNU0Fs3og&feature=youtu.be
 
-![Image](missingimage.png)
+![Image](reactable.png)
 
 This project is related to mine because (insert reasons here).
 
@@ -76,7 +76,7 @@ This project is related to mine because (insert reasons here).
 ## Interaction flowchart ##
 *Draw a flowchart of the interaction process in your project. Make sure you think about all the stages of interaction step-by-step. Also make sure that you consider actions a user might take that aren't what you intend in an ideal use case. Insert an image of it below. It might just be a photo of a hand-drawn sketch, not a carefully drawn digital diagram. It just needs to be legible.*
 
-![Image](missingimage.png)
+![Image](flow.png)
 
 ## Process documentation
 
@@ -104,13 +104,13 @@ This project is related to mine because (insert reasons here).
 
 *Try to capture the image as if it were in a portfolio, sales material, or project proposal. The project isn't likely to be something that finished, but practice making images that capture the project in that style.*
 
-![Image](missingimage.png)
+![Image](complete.png)
 
 ### Additional view ###
 
 *Provide some other image that gives a viewer a different perspective on the project such as more about how it functions, the project in use, or something else.*
 
-![Image](project.png)
+![Image](final.png)
 ![Video](project.mov)
 
 ### Reflection ###
