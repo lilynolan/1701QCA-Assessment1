@@ -97,10 +97,13 @@ Here is the first code that I started with from the source that was provided. I 
 Here I am checking to make sure that my circuit works 
 
 ![Image](batteries.png)
-I was panicking  it wasnt working but turns out it was just the batteries
+ Here I was panicking because it wasnt working but turns out it was just the batteries
+
+![Image](lemon.png)
+I decided to use a lemon because it seemed to be the least gross option from my kitchen. Here is me testing to see if the signal would travel through the lemon.
 
 ![Image](arpegiator.png)
-
+This was my favorite part of my project because I feel that it makes the interaction so much more interesting. By changing the code to make the sound arpeggiate it gives the project a bunch of different noises and the user is more entertained and engaged when using it.
 
 
 *Include screenshots of the code you have used.*
