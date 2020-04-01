@@ -91,9 +91,14 @@ My project's microinteraction is to make a noise through completeing a circuit. 
 *There will likely by a dozen or so images of the project under construction. The images should help explain why you've made the choices you've made as well as what you have done. Use the code below to include images, and copy it for each image, updating the information for each.*
 
 ![Image](bananakeyboard.png)
+Here is the first code that I started with from the source that was provided. I knew that I wanted to change it so that it could do more than play the same sound each time. I also knew I didn't want to use a banana because that would get nasty.
 
 ![Image](circuit.png)
+Here I am checking to make sure that my circuit works 
+
 ![Image](batteries.png)
+I was panicking  it wasnt working but turns out it was just the batteries
+
 ![Image](arpegiator.png)
 
 
