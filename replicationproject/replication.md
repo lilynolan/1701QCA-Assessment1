@@ -7,8 +7,6 @@
 ## Replication project choice ##
 Banana Keyboard
 
-## Related projects ##
-*Find about 6 related projects to the project you choose. A project might be related through  function, technology, materials, fabrication, concept, or code. Don't forget to place an image of the related project in the* `replicationproject` *folder and insert the filename in the appropriate places below. Copy the markdown block of code below for each project you are showing, updating the number* `1` *in the subtitle for each.*
 
 ### Related project 1 ###
 Tickle Me Elmo
@@ -17,15 +15,23 @@ https://www.youtube.com/watch?v=IP8DHiYJzak
 
 ![Image](missingimage.png)
 
-This project is related to mine because (insert reasons here).
+This project is related to mine because it invloves button pushing with simple reactions from the toy. Tickle Me Elmo has a few different sounds and movements programmed for when buttons on the toy are pressed. Similar to mine the lemon is a button that makes a noise when preed and has a few different set noises.
 
-## Reading reflections ##
-*Reflective reading is an important part of actually making your reading worthwhile. Don't just read the words to understand what they say: read to see how the ideas in the text fit with and potentially change your existing knowledge and maybe even conceptual frameworks. We assume you can basically figure out what the readings mean, but the more important process is to understand how that changes what you think, particularly in the context of your project.*
 
 ### Related project 2 ###
 Pixel Pyros
 
 https://vimeo.com/77432808
+
+![Image](missingimage.png)
+
+This project is related to mine because it invloves an interactive touch. The auience can interact with the projected image without any instruction. Any kind of touch on the wall will produce a reaction in the projection.
+
+
+### Related project 3 ###
+Reactable
+
+https://www.youtube.com/watch?v=jtjNU0Fs3og&feature=youtu.be
 
 ![Image](missingimage.png)
 
