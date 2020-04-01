@@ -117,7 +117,7 @@ This was my favorite part of my project because I feel that it makes the interac
 ### Project description ###
 
 *In a few sentences, describe what the project is and does, who it is for, and a typical use case.*
-My project is a lemon keyboard. By holding the end of a cable (P1) in one hand and touching the lemon (Ground) with the other you complete the circut and the keyboard plays a sound. To make my project more interesting I made the sound arpeggiate higher each time you touch the lemon and when it reaches 1100Hz it returns back to 220Hz. This is mainly aimed at children (even though my parents liked playing with it) 
+By holding 1P in one hand and the fruit, which is connected to Ground in the other, the user acts as a button and close the electrical circuit. Electricity travels from the battery pack, through the microbit, the cables, the fruit and through the user. The result is that there is an electrical connection between 1P and Ground. This tells the microbit to play a sound. To make my project more interesting I made the sound arpeggiate higher each time you touch the lemon.  After the noise is made, the microbit  is programmed to play a higher noise for every sound played until it reaches 1100Hz. Then the microbit reverts back to 220Hz. My project is mainly aimed at children (even though my parents liked playing with it) and could be used as an educational toy that displays how electricity can flow through certian medium.
 
 ### Showcase image ###
 
