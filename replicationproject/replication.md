@@ -125,7 +125,7 @@ By holding 1P in one hand and the fruit, which is connected to Ground in the oth
 
 ### Additional view ###
 
-![Image](final.png)
+![Image](f.png)
 ![Video](project.mov)
 
 ### Reflection ###
