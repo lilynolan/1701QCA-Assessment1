@@ -44,13 +44,13 @@ This project is related to mine because (insert reasons here).
 
 ### Reading: Don Norman, The Design of Everyday Things, Chapter 1 (The Psychopathology of Everyday Things) ###
 
-*What I thought before: Describe something that you thought or believed before you read the source that was challenged by the reading.*
+*What I thought before: Before reading this I would always feel silly for interacting with something wrong. A common example described in the reading is doors and how they can be misleading. A door that has a handle on it which signifies pull when the door is in fact meant to be pushed had always left me feeling frustrated for using the appliance wrong.
 
-*What I learned: Describe what you now know or believe as a result of the reading. Don't just describe the reading: write about what changed in YOUR knowledge.*
+*What I learned: I learnt that it is not the users fault for using an appliance wrong. If a signifier does not clearly communicate the affordance then the person using said product has to revert to trial and error to figure out how it works. Such as with a door that has the wrong signifier, the frustration of pulling and then having to push could be avoided by having a better signifier.
 
-*What I would like to know more about: Describe or write a question about something that you would be interested in knowing more about.*
+*What I would like to know more about: I'd like to learn more about hidden signifiers that we follow every day without noticing.
 
-*How this relates to the project I am working on: Describe the connection between the ideas in the reading and one of your current projects or how ideas in the reading could be used to improve your project.*
+*How this relates to the project I am working on: My project has a very simple affordance which is to make a noise when the button is triggered. Currently it does not have any signifiers so if someone was to try and use it they probably wouldn't be able to figure out it's function.
 
 ### Reading: Chapter 1 of Dan Saffer, Microinteractions: Designing with Details, Chapter 1 ###
 
