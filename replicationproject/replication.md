@@ -88,12 +88,12 @@ More research on how people interact with a product can always be done and impro
 Here is the first code that I started with from the source that was provided in the assessment. I knew that I wanted to change the code so that it could do more than play the same sound each time. I also knew I didn't want to use a banana because that would get nasty fast.
 ![Image](bananakeyboard.png)
 
-![Image](circuit.png)
 Here I am checking to make sure that my circuit works.
+![Image](circuit.png)
 
+Some close ups of how I connected the microbit chip and aux chord.
 ![Image](bit.png)
 ![Image](aux.png)
-Some close ups of how I connected the microbit chip and aux chord.
 
  Here I was panicking because it was not working but turns out it was just the batteries out of power.
 ![Image](batteries.png)
@@ -101,7 +101,7 @@ Some close ups of how I connected the microbit chip and aux chord.
 I decided to use a lemon because it seemed to be the least gross option from my kitchen. Here is me testing to see if the signal would travel through the lemon.
 ![Image](lemon.png)
 
-This was my favorite part of my project because I feel that it makes the interaction so much more interesting. By changing the code to make the sound arpeggiate it gives the project a bunch of different noises and the user is more entertained and engaged when using it.
+This codeing was my favorite part of my project because I feel that it makes the interaction so much more interesting. By changing the code to make the sound arpeggiate it gives the project a bunch of different noises and the user is more entertained and engaged when using it.
 ![Image](arpegiator.png)
 
 
