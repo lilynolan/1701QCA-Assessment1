@@ -9,7 +9,6 @@
 
 ![Image](1.png)
 
-(Insert a caption here)
 
 #### Reflection ####
 
