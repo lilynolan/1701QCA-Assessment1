@@ -69,13 +69,17 @@ My project's microinteraction is to make a noise through completeing a circuit. 
 
 ### Reading: Scott Sullivan, Prototyping Interactive Objects ###
 
-*What I thought before: Describe something that you thought or believed before you read the source that was challenged by the reading.*
+*What I thought before: 
+I throught that codeing was very complex and that only someone who has studied codeing could efficiently use the software.
 
-*What I learned: Describe what you now know or believe as a result of the reading. Don't just describe the reading: write about what changed in YOUR knowledge.*
+*What I learned: 
+Codeing can be used as simple building blocks as well as for complex modeling. Codeing can start off simply but as more problems and needs are identified the code gets more complex and specific to the task.
 
-*What I would like to know more about: Describe or write a question about something that you would be interested in knowing more about.*
+*What I would like to know more about: 
+I would like to know more about the different types of codeing and how they can be used in real life situations
 
-*How this relates to the project I am working on: Describe the connection between the ideas in the reading and one of your current projects or how ideas in the reading could be used to improve your project.*
+*How this relates to the project I am working on: 
+More research on how people interact with a product can always be done and improvements can always be made. Having a product that just works isn't good enough when we have access to so many codeing resources.
 
 
 ## Interaction flowchart ##
@@ -134,10 +138,10 @@ By holding 1P in one hand and the fruit, which is connected to Ground in the oth
 I felt that my project was successful in replicating the provided task and in putting a bit more creativity to the banana keyboard. However, I feel that the presentation could have been improved. The wires were messy and the joins were flimsy; often getting in the way or disconnecting. If I was to create this again I would wrap wires around each connection to make them more secure and tape them down so that there aren't any loose wires. I would also use a box to hide everything exvept the wires that connect to the person and the lemon.
 
 *What techniques, approaches, skills, or information did you find useful from other sources (such as the related projects you identified earlier)?*
-
+My related projects showed me that a project is most successful when it sparks interest. Tickle Me Elmo is interesting for children while the Reactable project is interesting for musicians. The Pixel Pyros project showed me that a project can be very entertaining when it is designed so tat everyone can interact with it. I tried to design my project so that it is entertaining and easy for most people to use. 
 
 *What ideas have you read, heard, or seen that informed your thinking on this project? (Provide references.)*
-
+Scott Sullivan's "Prototyping Interactive Projects" changed my thinking on how a project can evolve from the input from a consumer and the beta testing. When Sullivan first started his project he had set out to just create a device that tracks human movement. He then aspplied that to a retail store setting and other challenges prestented themselves and more testing had to be done to overcome those challenges. This showed me that you need to test your project in different settings to expand upon your knowlege of the product.  “Microinteractions: Designing with Details” by Dan Saffer also taught me that a product is made up of interactions that can make a user either love or hate that device. A developer should always be looking for a way to make a product easier to use. The same notion is brought up by Don Norman in his book “The Design of Everyday Things." He says the the design of products should be intuitive for the user and that the affordances of that product should be signified so that the product is easy to use. This made me think on the design of my product because if an uninformed person came into contact with my product then they wouldn't know what it did or how to use it. Going into the future I'd like to make my project more intuitive for people to use with ease.
 
 *What might be an interesting extension of this project? In what other contexts might this project be used?*
 There are many different ways that the principals of this project could be used for. One is education because this project clearly demonstrates the flow of electricity through various objects and materials. I think that this experiment could be used as a teaching tool for how circuts, conductivity and codeing work. It could also be extended into a fun musical instrument by adding more pieces of fruit that make different noises.
