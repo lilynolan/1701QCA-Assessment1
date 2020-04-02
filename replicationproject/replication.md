@@ -1,8 +1,5 @@
 # Assessment 1: Replication project
 
-*Fill out the following workbook with information relevant to your project.*
-
-*Markdown reference:* [https://guides.github.com/features/mastering-markdown/](http://guides.github.com/features/mastering-markdown/)
 
 ## Replication project choice ##
 Banana Keyboard
@@ -88,32 +85,25 @@ More research on how people interact with a product can always be done and impro
 
 ## Process documentation
 
-*In this section, include text and images that represent the development of your project including sources you've found (URLs and written references), choices you've made, sketches you've done, iterations completed, materials you've investigated, and code samples. Use the markdown reference for help in formatting the material.*
-
-*This should have quite a lot of information!*
-
-*There will likely by a dozen or so images of the project under construction. The images should help explain why you've made the choices you've made as well as what you have done. Use the code below to include images, and copy it for each image, updating the information for each.*
-
+Here is the first code that I started with from the source that was provided in the assessment. I knew that I wanted to change the code so that it could do more than play the same sound each time. I also knew I didn't want to use a banana because that would get nasty fast.
 ![Image](bananakeyboard.png)
-Here is the first code that I started with from the source that was provided. I knew that I wanted to change it so that it could do more than play the same sound each time. I also knew I didn't want to use a banana because that would get nasty fast.
 
 ![Image](circuit.png)
-Here I am checking to make sure that my circuit works 
+Here I am checking to make sure that my circuit works.
+
 ![Image](bit.png)
 ![Image](aux.png)
-Some close ups of how I connected the microbit chip and aux chord
+Some close ups of how I connected the microbit chip and aux chord.
 
+ Here I was panicking because it was not working but turns out it was just the batteries out of power.
 ![Image](batteries.png)
- Here I was panicking because it wasnt working but turns out it was just the batteries
 
-![Image](lemon.png)
 I decided to use a lemon because it seemed to be the least gross option from my kitchen. Here is me testing to see if the signal would travel through the lemon.
+![Image](lemon.png)
 
-![Image](arpegiator.png)
 This was my favorite part of my project because I feel that it makes the interaction so much more interesting. By changing the code to make the sound arpeggiate it gives the project a bunch of different noises and the user is more entertained and engaged when using it.
+![Image](arpegiator.png)
 
-
-*Include screenshots of the code you have used.*
 
 ## Project outcome ##
 
