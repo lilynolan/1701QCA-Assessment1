@@ -1,17 +1,11 @@
 # Inventor Kit Experiments
 
-*Markdown reference: https://guides.github.com/features/mastering-markdown/*
 
-## Instructions ##
-
-*For a selection of 5 inventor kit experiments that you choose, fill out the following sections.
 
 ### Experiment 1 ###
 
-(Replace this with the experiment name)
 
 #### Photo of completed project ####
-*In the code below, replace `missingimage.png` with the name of the image, which should be in the `kitexperiments` folder.*
 
 ![Image](1.png)
 
@@ -25,14 +19,10 @@ This experiment could be the basis of a real world application such as electroni
 
 ### Experiment 2 ###
 
-(Replace this with the experiment name)
-
 #### Photo of completed project ####
-In the code below, replace imagemissing.jpg with the name of the image, which should be in the kitexperiments folder.
 
 ![Image](2.png)
 
-(Insert a caption here)
 
 #### Reflection ####
 
@@ -42,31 +32,21 @@ This experiment could be the basis of a real world application such as energy sa
 
 ### Experiment 5 ###
 
-(Replace this with the experiment name)
-
 #### Photo of completed project ####
-In the code below, replace imagemissing.jpg with the name of the image, which should be in the kitexperiments folder.
 
 ![Image](5.JPG)
 
-(Insert a caption here)
 
 #### Reflection ####
 
-In this experiment, I learnt how to use an accelerometer to control motor speed.
-
-This experiment could be the basis of a real world application such as video games with remotes that detect movement. It could also be used to control machinery (such as an excavator).
+In this experiment, I learnt how to use an accelerometer to control motor speed. This experiment could be the basis of a real world application such as video games with remotes that detect movement. It could also be used to control machinery (such as an excavator).
 
 ### Experiment 6 ###
 
-(Replace this with the experiment name)
-
 #### Photo of completed project ####
-In the code below, replace imagemissing.jpg with the name of the image, which should be in the kitexperiments folder.
 
 ![Image](6.png)
 
-(Insert a caption here)
 
 #### Reflection ####
 
@@ -76,14 +56,10 @@ In this experiment, I learnt set the tone on a piezo buzzer. This is useful for 
 
 ### Expriment 7 ###
 
-(Replace this with the experiment name)
-
 #### Photo of completed project ####
-In the code below, replace imagemissing.jpg with the name of the image, which should be in the kitexperiments folder.
 
 ![Image](7.png)
 
-(Insert a caption here)
 
 #### Reflection ####
 
